@@ -1,10 +1,6 @@
 # 202407_TechTalk_SentisDemo
 Sentis Demo for Monthly Tech Talk
 
-![demo1-resize](https://github.com/user-attachments/assets/911687a2-f1f0-4956-950c-99c52997ac0f)
-![demo2-resize](https://github.com/user-attachments/assets/0c3fd6f3-e69c-455f-aad8-d20ed34b6d65)
-![demo3-resize](https://github.com/user-attachments/assets/c5580f7d-bad9-4325-8e54-ed4b56b54e11)
-
 ## Requirements ##
 - Unity 2023.2.20f1
 - [Ollama](https://github.com/ollama/ollama)
@@ -45,5 +41,13 @@ Sentis Demo for Monthly Tech Talk
 ## Scene ##
 
 - Gesture Recognition Task: /Scene/HandRecognitionScene.unity
+
+![demo1-resize](https://github.com/user-attachments/assets/911687a2-f1f0-4956-950c-99c52997ac0f)
+
 - AI NPC Dialogue Task ###: /Scene/AINPCScene.unity
+
+![demo2-resize](https://github.com/user-attachments/assets/0c3fd6f3-e69c-455f-aad8-d20ed34b6d65)
+
 - AI Gallery: /Scene/AIGalleryScene.unity
+
+![demo3-resize](https://github.com/user-attachments/assets/c5580f7d-bad9-4325-8e54-ed4b56b54e11)
