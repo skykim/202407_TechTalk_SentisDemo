@@ -51,3 +51,7 @@ Sentis Demo for Monthly Tech Talk
 - AI Gallery: /Scene/AIGalleryScene.unity
 
 ![demo3-resize](https://github.com/user-attachments/assets/c5580f7d-bad9-4325-8e54-ed4b56b54e11)
+
+## Contact ##
+
+If you have any questions, feel free to ask me in [email](sky.kim@unity3d.com).
