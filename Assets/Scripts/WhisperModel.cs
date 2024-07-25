@@ -164,10 +164,6 @@ public class WhisperModel : MonoBehaviour
             audioSource.Play();
         
         LoadAudioClip();
-        
-        // Destroy the audio clip after loading to free up memory
-        AudioClip.Destroy(_audioClip);
-        _audioClip = null;
     }
     
     void LoadAudioClip()
