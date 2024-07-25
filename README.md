@@ -3,6 +3,7 @@ Sentis Demo for Monthly Tech Talk
 
 ## Requirements ##
 - Unity 2023.2.20f1
+- Sentis 1.5.0-pre.3
 - [Ollama](https://github.com/ollama/ollama)
 
 ## Setup ##
@@ -42,16 +43,19 @@ Sentis Demo for Monthly Tech Talk
 
 - Gesture Recognition Task: /Scene/HandRecognitionScene.unity
 
-![demo1-resize](https://github.com/user-attachments/assets/911687a2-f1f0-4956-950c-99c52997ac0f)
+[![Gesture Recognition Task](https://img.youtube.com/vi/ZUtc2hDuwk8/0.jpg)](https://www.youtube.com/watch?v=ZUtc2hDuwk8)
+<!--![demo1-resize](https://github.com/user-attachments/assets/911687a2-f1f0-4956-950c-99c52997ac0f)-->
 
 - AI NPC Dialogue Task ###: /Scene/AINPCScene.unity
 
-![demo2-resize](https://github.com/user-attachments/assets/0c3fd6f3-e69c-455f-aad8-d20ed34b6d65)
+[![AI NPC Dialogue Task](https://img.youtube.com/vi/7UCuDyzBuOM/0.jpg)](https://www.youtube.com/watch?v=7UCuDyzBuOM)
+<!--![demo2-resize](https://github.com/user-attachments/assets/0c3fd6f3-e69c-455f-aad8-d20ed34b6d65)-->
 
 - AI Gallery: /Scene/AIGalleryScene.unity
 
-![demo3-resize](https://github.com/user-attachments/assets/c5580f7d-bad9-4325-8e54-ed4b56b54e11)
+[![AI NPC Dialogue Task](https://img.youtube.com/vi/i4JvkoHogRo/0.jpg)](https://www.youtube.com/watch?v=i4JvkoHogRo)
+<!--![demo3-resize](https://github.com/user-attachments/assets/c5580f7d-bad9-4325-8e54-ed4b56b54e11)-->
 
 ## Contact ##
 
-If you have any questions, feel free to ask me in [email](sky.kim@unity3d.com).
+If you have any questions, feel free to ask me at sky.kim@unity3d.com.
