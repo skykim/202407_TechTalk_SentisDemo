@@ -60,7 +60,7 @@ Sentis Demo for Monthly Tech Talk
 [![Gesture Recognition Task](https://img.youtube.com/vi/ZUtc2hDuwk8/0.jpg)](https://www.youtube.com/watch?v=ZUtc2hDuwk8)
 <!--![demo1-resize](https://github.com/user-attachments/assets/911687a2-f1f0-4956-950c-99c52997ac0f)-->
 
-- AI NPC Dialogue Task ###: /Scene/AINPCScene.unity
+- AI NPC Dialogue Task: /Scene/AINPCScene.unity
 
 [![AI NPC Dialogue Task](https://img.youtube.com/vi/7UCuDyzBuOM/0.jpg)](https://www.youtube.com/watch?v=7UCuDyzBuOM)
 <!--![demo2-resize](https://github.com/user-attachments/assets/0c3fd6f3-e69c-455f-aad8-d20ed34b6d65)-->
