@@ -1,15 +1,8 @@
-# 202407_TechTalk_SentisDemo
-Sentis Demo for Monthly Tech Talk
+# Sentis Demo for Monthly Tech Talk
 
 
 ## Slide (pdf) ###
 - [Sentis Demo for Monthly Tech Talk](https://github.com/skykim/202407_TechTalk_SentisDemo/blob/main/Print%20of%2020240725_Unity%20Monthly%20Tech%20Talk_Unity%20Sentis.pdf)
-
-
-## Requirements ##
-- Unity 2023.2.20f1
-- Sentis 1.5.0-pre.3
-- Ollama
 
 
 ## Requirements ##
